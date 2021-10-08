@@ -1,0 +1,98 @@
+Timestamp,Email Address,Position in Organization,Size of organization,High availability testing is preformed by back-up servers.,Availability testing affects on security of IoT based healthcare devices.,Availability testing can be performed by using automated means.,The stopping criteria of availability testing is acceptance testing.,Fault tree analysis provides Ease of availability testing.,6% is the total downtime per year for 99.99% of availability.,N- Version program  minimizes downtime.,Availability testing highly affects on cost of the project.,Software Robustness is favourable for the Availability testing.,Risk management has crucial impacts on availability testing. 
+7/9/2020 13:49:57,alinawaz7587@gmail.com,Developer,Small (20-50 Co-workers),Low,Strongly agree,Depend on nature,Actual servers,Manual,30%,Event tree analysis,6%,Recovery blocks,
+7/9/2020 13:53:21,attiqueskt@yahoo.com,QA/Tester,Small (20-50 Co-workers),High,Agree,After System testing,Actual servers,Automated (with the help of tool),99%,Risk analysis,6%,Check points,
+7/9/2020 13:55:25,islamian0048@gmail.com,Developer,Small (20-50 Co-workers),Medium,Disagree,After Acceptance testing,Actual servers,Test run continuously,50%,Fault tree analysis,10%,Recovery blocks,
+7/9/2020 14:23:35,khizraarooj@gmail.com,Student,Large(50-100 Co-workers),Very high,Agree,Depend on nature,Back-up servers,Automated (with the help of tool),10%,Fault tree analysis,10%,Hazard analysis,
+7/9/2020 14:54:51,zaeemanwaar@gmail.com,QA/Tester,Small (20-50 Co-workers),High,Neutral,After Acceptance testing,Back-up servers,Automated (with the help of tool),30%,Fault tree analysis,6%,Recovery blocks,
+7/9/2020 15:07:02,saqlainabbas980@gmail.com,Developer,Small (20-50 Co-workers),High,Agree,Depend on nature,Back-up servers,Test run continuously,99%,Fault tree analysis,6%,N- Version programming,
+7/9/2020 15:07:22,farooq_cheeta_usman@hotmail.com,Developer,Small (20-50 Co-workers),High,Agree,Depend on nature,Back-up servers,Test run continuously,99%,Fault tree analysis,6%,N- Version programming,
+7/9/2020 15:16:20,aftaabrana7@gmail.com,Developer,Small (20-50 Co-workers),High,Strongly agree,Depend on nature,Actual servers,Manual,99%,Event tree analysis,70%,Recovery blocks,
+7/9/2020 15:16:58,i191268@nu.edu.pk,Developer,Small (20-50 Co-workers),High,Agree,Depend on nature,Actual servers,Automated (with the help of tool),50%,Fault tree analysis,50%,Check points,
+7/9/2020 15:20:52,arsalkt9@gmail.com,Developer,Small (20-50 Co-workers),High,Agree,Depend on nature,Back-up servers,Test run continuously,99%,Fault tree analysis,6%,N- Version programming,
+7/9/2020 15:21:32,saqibajmal478@gmail.com,Developer,Small (20-50 Co-workers),High,Agree,Depend on nature,Back-up servers,Test run continuously,99%,Fault tree analysis,6%,N- Version programming,
+7/9/2020 15:23:03,awais_haider@ucp.edu.pk,Developer,Small (20-50 Co-workers),High,Agree,Depend on nature,Back-up servers,Test run continuously,99%,Fault tree analysis,6%,N- Version programming,
+7/9/2020 15:31:30,hhashmi977@gmail.com,Developer,Small (20-50 Co-workers),High,Agree,Depend on nature,Back-up servers,Test run continuously,99%,Fault tree analysis,6%,N- Version programming,
+7/9/2020 15:40:21,zeeshanzulfiqar105@gmail.com,Developer,Large(50-100 Co-workers),High,Strongly agree,Depend on nature,Actual servers,Automated (with the help of tool),50%,Risk analysis,6%,Check points,
+7/9/2020 16:13:24,mehwish.mevi6@gmail.com,QA/Tester,Small (20-50 Co-workers),High,Agree,Depend on nature,Actual servers,Test run continuously,99%,Risk analysis,6%,N- Version programming,
+7/9/2020 16:35:42,umairb3@gmail.com,Developer,Large(50-100 Co-workers),Very high,Agree,Depend on nature,Actual servers,Test run continuously,30%,Fault tree analysis,10%,Recovery blocks,
+7/9/2020 18:36:45,hishaam_dawood@live.com,Developer,Small (20-50 Co-workers),Medium,Strongly agree,After Acceptance testing,Actual servers,Test run continuously,99%,Fault tree analysis,6%,Check points,
+7/9/2020 20:23:26,hamzaizhar423@gmail.com,Developer,Small (20-50 Co-workers),High,Agree,Depend on nature,Back-up servers,Test run continuously,99%,Fault tree analysis,6%,N- Version programming,
+7/9/2020 20:25:00,somiusman950@gmail.com,Developer,Small (20-50 Co-workers),High,Agree,Depend on nature,Back-up servers,Test run continuously,99%,Fault tree analysis,6%,N- Version programming,
+7/9/2020 20:26:20,abidiqbaly6542@gmail.com,Developer,Small (20-50 Co-workers),High,Agree,Depend on nature,Back-up servers,Test run continuously,99%,Fault tree analysis,6%,N- Version programming,
+7/9/2020 21:13:43,kamrankhalid044@yahoo.com,Developer,Small (20-50 Co-workers),High,Neutral,Depend on nature,Actual servers,Automated (with the help of tool),10%,Cost analysis,6%,N- Version programming,
+7/9/2020 21:39:00,israrark123@gmail.com,Developer,Small (20-50 Co-workers),High,Agree,Depend on nature,Personal computer,Automated (with the help of tool),99%,Cost analysis,6%,Hazard analysis,
+7/9/2020 21:53:38,kamrankhalid044@yahoo.com,Developer,Small (20-50 Co-workers),High,Neutral,Depend on nature,Actual servers,Automated (with the help of tool),10%,Cost analysis,6%,N- Version programming,
+7/9/2020 22:14:17,malikhayat54@gmail.com,QA/Tester,Large(50-100 Co-workers),Medium,Neutral,Depend on nature,Actual servers,Test run continuously,30%,Event tree analysis,10%,Check points,
+7/9/2020 22:21:11,aizaz.nawaz22@gmail.com,Developer,Small (20-50 Co-workers),Low,Strongly disagree,Depend on nature,Smartphones,Automated (with the help of tool),10%,Cost analysis,70%,Recovery blocks,
+7/9/2020 22:24:48,aneesbabarali@gmail.com,Researcher,Large(50-100 Co-workers),Medium,Agree,After Acceptance testing,Actual servers,Automated (with the help of tool),30%,Risk analysis,10%,Recovery blocks,
+7/9/2020 22:25:49,alirazaa2211@gmail.com,QA/Tester,Large(50-100 Co-workers),High,Strongly disagree,After Acceptance testing,Actual servers,Automated (with the help of tool),99%,Cost analysis,70%,N- Version programming,
+7/9/2020 22:26:21,saeed.murrad@northbaysolutions.net,Developer,Large(50-100 Co-workers),Very high,Neutral,Depend on nature,Actual servers,Automated (with the help of tool),50%,Event tree analysis,6%,Check points,
+7/9/2020 22:39:22,rimshaafzal45@gmail.com,Software quality assurance ,Large(50-100 Co-workers),High,Disagree,After Acceptance testing,Actual servers,Manual,30%,Fault tree analysis,70%,Check points,
+7/9/2020 22:39:28,omerfarooq.se@gamil.com,QA/Tester,Small (20-50 Co-workers),Medium,Agree,Depend on nature,Actual servers,Automated (with the help of tool),10%,Risk analysis,6%,Hazard analysis,
+7/9/2020 23:26:49,taimourhussain12@yahoo.com,QA/Tester,Small (20-50 Co-workers),Medium,Agree,After Acceptance testing,Actual servers,Manual,30%,Risk analysis,10%,Recovery blocks,
+7/9/2020 23:40:08,ahmadnoor0303@gmail.com,IT Staff,Small (20-50 Co-workers),High,Disagree,After System testing,Back-up servers,Test run continuously,30%,Risk analysis,10%,Hazard analysis,
+7/9/2020 23:49:50,faryalgohar88@gmail.com,IT Staff,Large(50-100 Co-workers),Medium,Neutral,Depend on nature,Actual servers,Automated (with the help of tool),99%,Risk analysis,6%,Recovery blocks,
+7/10/2020 0:55:56,naaltaf@yahoo.com,QA/Tester,Large(50-100 Co-workers),Medium,Neutral,After Acceptance testing,Actual servers,Test run continuously,30%,Cost analysis,70%,Check points,
+7/10/2020 1:57:24,malikfarhan3200@gmail.com,QA/Tester,Small (20-50 Co-workers),High,Neutral,After Acceptance testing,Actual servers,Automated (with the help of tool),50%,Risk analysis,6%,N- Version programming,
+7/10/2020 8:13:02,m.azharit18@gmail.com,IT Staff,Small (20-50 Co-workers),High,Agree,Depend on nature,Actual servers,Automated (with the help of tool),99%,Risk analysis,6%,Recovery blocks,
+7/10/2020 11:36:52,nidaakhalid17@gmail.com,QA/Tester,Small (20-50 Co-workers),Medium,Agree,Depend on nature,Back-up servers,Manual,10%,Fault tree analysis,6%,Check points,
+7/10/2020 15:06:14,ibilal.bashir@gmail.com,Developer,Small (20-50 Co-workers),Low,Agree,After System testing,Actual servers,Manual,30%,Risk analysis,10%,Check points,
+7/10/2020 15:32:35,alirazamushtaq012@gmail.com,Developer,Small (20-50 Co-workers),High,Agree,After Acceptance testing,Actual servers,Test run continuously,99%,Event tree analysis,6%,Check points,
+7/10/2020 19:21:38,shahzad911@hotmail.com,QA/Tester,Small (20-50 Co-workers),Very high,Neutral,Depend on nature,Actual servers,Automated (with the help of tool),50%,Fault tree analysis,10%,Recovery blocks,
+1/14/2021 22:48:15,mehwish.mevi6@gamil.com,Developer,Small (20-50 Co-workers),Strongly Agree,Strongly Agree,Agree,Strongly disagree,Agree,Strongly Agree,Strongly Agree,Agree,Strongly Agree,Strongly Agree
+1/14/2021 22:48:25,usmanfarooq948@outlook.com,Developer,Large(50-100 Co-workers),Strongly Agree,Disagree,Agree,Strongly disagree,Agree,Strongly Agree,Strongly Agree,Agree,Strongly Agree,Strongly Agree
+1/14/2021 23:12:50,irfan.murtaza@shopdev.co,Developer,Large(50-100 Co-workers),Agree,Neutral,Agree,Disagree,Agree,Neutral,Agree,Agree,Agree,Agree
+1/14/2021 23:18:46,Awais_haider@ucp.edu.pk,Developer,Small (20-50 Co-workers),Strongly Agree,Disagree,Agree,Strongly Agree,Agree,Strongly Agree,Strongly Agree,Agree,Strongly Agree,Strongly Agree
+1/14/2021 23:21:19,aftaabrana7@gmail.com,Developer,Small (20-50 Co-workers),Strongly Agree,Disagree,Agree,Strongly disagree,Agree,Strongly Agree,Strongly Agree,Agree,Strongly Agree,Strongly Agree
+1/14/2021 23:23:15,salman.aziz@shopdev.co,Product Manager,Large(50-100 Co-workers),Strongly Agree,Neutral,Strongly Agree,Agree,Agree,Neutral,Agree,Disagree,Agree,Agree
+1/14/2021 23:27:56,sabtain435@gmail.com,Developer,Large(50-100 Co-workers),Agree,Neutral,Strongly Agree,Neutral,Agree,Neutral,Agree,Agree,Agree,Agree
+1/14/2021 23:45:09,abidarasuok@gmail.com,QA/Tester,Large(50-100 Co-workers),Strongly Agree,Strongly Agree,Strongly Agree,Strongly disagree,Agree,Strongly Agree,Strongly Agree,Strongly Agree,Agree,Strongly Agree
+1/14/2021 23:52:55,husnainakbar29@gmail.com,Developer,Large(50-100 Co-workers),Strongly Agree,Disagree,Agree,Agree,Agree,Strongly Agree,Neutral,Agree,Agree,Agree
+1/14/2021 23:53:05,iamaqsa1997@gmail.com,QA/Tester,Small (20-50 Co-workers),Neutral,Agree,Agree,Agree,Agree,Neutral,Agree,Neutral,Neutral,Agree
+1/14/2021 23:55:08,israrark123@gmail.com,Developer,Small (20-50 Co-workers),Strongly Agree,Disagree,Agree,Strongly disagree,Agree,Strongly Agree,Strongly Agree,Agree,Strongly Agree,Strongly Agree
+1/14/2021 23:57:55,bilalbutt567@gmail.com,Developer,Small (20-50 Co-workers),Agree,Agree,Agree,Agree,Agree,Neutral,Disagree,Neutral,Disagree,Agree
+1/14/2021 23:58:21,saeed.murrad@sltn.net,Developer,Large(50-100 Co-workers),Strongly Agree,Disagree,Agree,Disagree,Agree,Agree,Strongly Agree,Agree,Strongly Agree,Strongly Agree
+1/15/2021 0:02:23,shiningwaseem2016@gmail.com,CEO,Small (20-50 Co-workers),Strongly Agree,Disagree,Agree,Strongly disagree,Agree,Strongly Agree,Strongly Agree,Agree,Strongly Agree,Strongly Agree
+1/15/2021 0:02:29,arslankafayat335@gmail.com,Developer,Small (20-50 Co-workers),Strongly Agree,Disagree,Agree,Strongly disagree,Agree,Strongly Agree,Strongly Agree,Agree,Strongly Agree,Strongly Agree
+1/15/2021 0:11:01,hafizhassan229@gmail.com,Developer,Small (20-50 Co-workers),Strongly Agree,Disagree,Agree,Strongly disagree,Agree,Strongly Agree,Strongly Agree,Agree,Strongly Agree,Agree
+1/15/2021 0:13:59,ibilalbashir@gmail.com,Developer,Small (20-50 Co-workers),Strongly Agree,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Agree
+1/15/2021 0:21:15,bilalamin68@gmail.com,Developer,Large(50-100 Co-workers),Strongly Agree,Agree,Neutral,Agree,Agree,Agree,Neutral,Agree,Agree,Neutral
+1/15/2021 0:47:02,malikhayat54@gmail.com,QA/Tester,Small (20-50 Co-workers),Agree,Agree,Strongly Agree,Neutral,Strongly Agree,Neutral,Agree,Strongly Agree,Strongly disagree,Agree
+1/15/2021 0:48:26,ali.afzal1@gmail.com,Project Manager,Small (20-50 Co-workers),Strongly Agree,Strongly Agree,Agree,Neutral,Strongly Agree,Agree,Disagree,Strongly Agree,Agree,Neutral
+1/15/2021 0:55:25,haseebamz.int@gmail.com,Project Manager,Large(50-100 Co-workers),Strongly Agree,Disagree,Agree,Strongly disagree,Agree,Strongly Agree,Strongly Agree,Agree,Strongly Agree,Strongly Agree
+1/15/2021 1:00:18,sardar.balouch02@gmail.com,Developer,Large(50-100 Co-workers),Strongly Agree,Agree,Agree,Strongly disagree,Agree,Strongly Agree,Agree,Agree,Agree,Agree
+1/15/2021 1:04:47,Zuno786l@gmail.com,HR,Large(50-100 Co-workers),Strongly Agree,Strongly disagree,Agree,Disagree,Agree,Strongly Agree,Agree,Agree,Agree,Strongly Agree
+1/15/2021 1:58:27,samana.maxnet123@gmail.com,IT Staff,Small (20-50 Co-workers),Strongly Agree,Neutral,Disagree,Agree,Strongly Agree,Disagree,Agree,Strongly Agree,Agree,Agree
+1/15/2021 11:18:03,Zainabshahzadi92@gmail.com,Project Manager,Large(50-100 Co-workers),Agree,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Agree
+1/15/2021 11:20:19,sabtainraza052@gmail.com,Developer,Large(50-100 Co-workers),Strongly Agree,Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Neutral,Strongly disagree,Strongly Agree,Strongly Agree
+1/15/2021 12:13:21,hhashmi977@gmail.com,Developer,Small (20-50 Co-workers),Strongly Agree,Disagree,Agree,Strongly disagree,Agree,Strongly Agree,Strongly Agree,Agree,Strongly Agree,Strongly Agree
+1/15/2021 12:14:45,msaifi587@gmail.com,IT Staff,Small (20-50 Co-workers),Agree,Neutral,Neutral,Agree,Agree,Disagree,Neutral,Disagree,Neutral,Agree
+1/15/2021 12:17:02,saifsarda54@gmail.com,Developer,Small (20-50 Co-workers),Strongly Agree,Disagree,Agree,Strongly disagree,Agree,Strongly Agree,Strongly Agree,Agree,Strongly Agree,Strongly Agree
+1/15/2021 13:35:10,ahsan.fiyaz@tkxel.com,Developer,Large(50-100 Co-workers),Strongly Agree,Disagree,Agree,Strongly disagree,Neutral,Neutral,Agree,Strongly Agree,Strongly Agree,Strongly Agree
+1/15/2021 13:36:33,fahad.shah@tkxel.com,Project Manager,Large(50-100 Co-workers),Agree,Strongly disagree,Agree,Strongly disagree,Agree,Agree,Agree,Strongly Agree,Agree,Agree
+1/15/2021 13:45:11,asad77007@gmail.com,Developer,Small (20-50 Co-workers),Agree,Strongly Agree,Neutral,Agree,Agree,Agree,Strongly Agree,Strongly Agree,Agree,Agree
+1/15/2021 13:54:57,riaz5522@gmail.com,Implementer,Small (20-50 Co-workers),Agree,Agree,Neutral,Strongly Agree,Agree,Strongly Agree,Disagree,Agree,Agree,Agree
+1/15/2021 15:05:06,arsalkt9@gmail.com,Developer,Small (20-50 Co-workers),Strongly Agree,Disagree,Agree,Agree,Agree,Disagree,Strongly Agree,Strongly Agree,Strongly Agree,Agree
+1/15/2021 15:13:39,naeemmurtatza@gmail.com,Developer,Small (20-50 Co-workers),Strongly Agree,Disagree,Agree,Strongly disagree,Agree,Strongly Agree,Strongly Agree,Agree,Strongly Agree,Strongly Agree
+1/15/2021 15:13:44,harisanwar64@gmail.com,Developer,Large(50-100 Co-workers),Agree,Agree,Neutral,Agree,Agree,Neutral,Neutral,Agree,Agree,Neutral
+1/15/2021 15:14:47,muhammad_abdullah@i2c.org.pk,QA/Tester,Large(50-100 Co-workers),Strongly Agree,Strongly disagree,Agree,Disagree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree
+1/15/2021 15:15:45,junaidalibwn@gmail.com,Developer,Small (20-50 Co-workers),Strongly Agree,Disagree,Agree,Strongly disagree,Agree,Strongly Agree,Strongly Agree,Agree,Strongly Agree,Strongly Agree
+1/15/2021 15:17:17,adnanasif660@gmail.com,Developer,Small (20-50 Co-workers),Strongly Agree,Disagree,Agree,Strongly disagree,Agree,Strongly Agree,Strongly Agree,Agree,Strongly Agree,Strongly Agree
+1/15/2021 15:17:49,sidrahareem67@gmail.com,Designer,Small (20-50 Co-workers),Agree,Neutral,Strongly Agree,Strongly disagree,Agree,Agree,Agree,Agree,Agree,Agree
+1/15/2021 15:19:18,eeniart@gmail.com,Developer,Small (20-50 Co-workers),Strongly Agree,Disagree,Agree,Strongly disagree,Agree,Strongly Agree,Strongly Agree,Agree,Strongly Agree,Strongly Agree
+1/15/2021 15:20:57,farmanahmed786x@gmail.com,Developer,Small (20-50 Co-workers),Strongly Agree,Disagree,Agree,Strongly disagree,Agree,Strongly Agree,Strongly Agree,Agree,Strongly Agree,Strongly Agree
+1/15/2021 15:21:44,razahassan114@gmail.com,Developer,Small (20-50 Co-workers),Strongly Agree,Disagree,Agree,Strongly disagree,Agree,Strongly Agree,Strongly Agree,Agree,Strongly Agree,Strongly Agree
+1/15/2021 15:22:43,abubakar.suhail13@gmail.com,Developer,Small (20-50 Co-workers),Strongly Agree,Disagree,Agree,Strongly disagree,Agree,Strongly Agree,Strongly Agree,Agree,Strongly Agree,Strongly Agree
+1/15/2021 15:23:42,mohs3n.ab786@gmail.com,Developer,Large(50-100 Co-workers),Strongly Agree,Disagree,Agree,Strongly disagree,Agree,Strongly Agree,Strongly Agree,Agree,Strongly Agree,Strongly Agree
+1/15/2021 15:24:36,muhammadwaqar880@gmail.com,QA/Tester,Large(50-100 Co-workers),Strongly Agree,Disagree,Agree,Strongly disagree,Agree,Strongly Agree,Strongly Agree,Agree,Strongly Agree,Strongly Agree
+1/15/2021 15:25:45,shahzeb_akbar@i2c.org.pk,QA/Tester,Large(50-100 Co-workers),Strongly Agree,Disagree,Agree,Strongly disagree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree
+1/15/2021 15:34:57,zain_baig@i2c.org.pk,QA/Tester,Large(50-100 Co-workers),Strongly Agree,Disagree,Strongly Agree,Strongly disagree,Agree,Strongly Agree,Agree,Neutral,Strongly Agree,Agree
+1/15/2021 16:26:35,sabirmemon6@gmail.com,QA/Tester,Large(50-100 Co-workers),Neutral,Agree,Agree,Strongly Agree,Agree,Neutral,Agree,Agree,Agree,Agree
+1/15/2021 18:10:43,adeelkh600@gmail.com,HR,Small (20-50 Co-workers),Strongly Agree,Agree,Disagree,Strongly disagree,Agree,Strongly Agree,Strongly Agree,Strongly Agree,Agree,Strongly Agree
+1/15/2021 18:11:21,nadirkhan6725@gmail.com,Project Manager,Small (20-50 Co-workers),Strongly Agree,Agree,Agree,Strongly disagree,Agree,Strongly Agree,Strongly Agree,Agree,Strongly Agree,Strongly Agree
+1/15/2021 18:13:26,saqlainabbas980@gmail.com,Developer,Small (20-50 Co-workers),Agree,Disagree,Strongly disagree,Strongly disagree,Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree
+1/16/2021 15:32:23,zaeemanwaar@gmail.com,QA/Tester,Large(50-100 Co-workers),Strongly disagree,Agree,Disagree,Strongly Agree,Disagree,Disagree,Strongly disagree,Disagree,Disagree,Strongly Disagree
+1/16/2021 16:17:33,usman.farooq@apex.com,QA/Tester,Large(50-100 Co-workers),Agree,Strongly disagree,Strongly disagree,Disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly Disagree
+1/16/2021 16:19:19,waseemanwar1992@gmail.com,QA/Tester,Large(50-100 Co-workers),Disagree,Strongly disagree,Strongly disagree,Strongly Agree,Strongly disagree,Strongly disagree,Disagree,Disagree,Strongly disagree,Disagree
+1/16/2021 16:22:02,mabdullahnaizi57@gmail.com,QA/Tester,Large(50-100 Co-workers),Strongly disagree,Strongly disagree,Strongly disagree,Agree,Strongly disagree,Disagree,Strongly disagree,Strongly disagree,Strongly disagree,Disagree
+1/16/2021 16:24:20,kamrankhan22@gmail.com,Project Manager,Large(50-100 Co-workers),Neutral,Disagree,Neutral,Strongly disagree,Disagree,Disagree,Disagree,Disagree,Strongly disagree,Disagree
